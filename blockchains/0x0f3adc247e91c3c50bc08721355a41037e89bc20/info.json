@@ -2,7 +2,7 @@
     "website": "https://anchorprotocol.com",
     "description": "Anchor is a savings protocol offering low-volatile yields on Terra stablecoin deposits.",
     "explorer": "https://finder.terra.money/columbus-4/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
-    "type": "ERC-20",
+    "type": "Token",
     "symbol": "ANC",
     "decimals": 18,
     "status": "active",
